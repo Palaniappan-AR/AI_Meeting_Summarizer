@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "your-api-key"
+openai.api_key = "openai-api-key"
 
 # Define available functions with diverse examples
 def extract_action_items(args):
